@@ -53,10 +53,12 @@ AI-assisted rover experiments, autonomous navigation, obstacle avoidance, sensor
 ---
 
 ### Observatory Division
-
+### [Sheep-assisted astronomy](https://astro-sheep.github.io/sheep_assist/)
 Robotic balcony astronomy with smart telescopes, Messier observing, target planning, planisphere tools, logs, observing cards, and mission-style sky exploration.
 
 **Focus:** Seestar-style observing, Messier objects, observing workflows, sky planning, mission logs.
+
+
 
 ---
 
