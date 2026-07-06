@@ -1,24 +1,24 @@
 
 
-<h1 align="center">AstroSheeps</h1>
+<h1 align="center">AstroSheep</h1>
 
 <p align="center">
   <strong>Small robots. Big sky. Curious sheep.</strong>
 </p>
 
 <p align="center">
-  AstroSheeps is an indie mission lab for AI rovers, robotic astronomy, observing tools, and tiny space-program experiments.
+  AstroSheep is an indie mission lab for AI rovers, robotic astronomy, observing tools, and tiny space-program experiments.
 </p>
 
 ---
 
-## 🐑 About AstroSheeps
+## 🐑 About AstroSheep
 
-AstroSheeps explores the intersection of **AI**, **robotics**, **smart telescopes**, and **playful mission-control design**.
+AstroSheep explores the intersection of **AI**, **robotics**, **smart telescopes**, and **playful mission-control design**.
 
 The project started with a small rover experiment, but quickly grew into a broader tiny space-program idea: rovers explore the ground, telescopes explore the sky, and AI helps connect the mission.
 
-AstroSheeps is not a professional space agency.  
+AstroSheep is not a professional space agency.  
 It is a small Earth-based mission lab for curious explorers, balcony astronomers, robot builders, and people who like their engineering with a bit of sheep energy.
 
 ---
@@ -70,9 +70,9 @@ The software layer that connects the mission: dashboards, websites, reports, AI 
 
 ## 🛰️ Current projects
 
-### [Messier Object Logger](https://github.com/astro-sheeps/messier)
+### [Messier Object Logger](https://github.com/astro-sheep/messier)
 
-A cute mission-style Messier object logger for AstroSheeps observing adventures.
+A cute mission-style Messier object logger for AstroSheep observing adventures.
 
 Track captured Messier objects, observing progress, notes, and mission status.
 
@@ -81,7 +81,7 @@ Track captured Messier objects, observing progress, notes, and mission status.
 
 ---
 
-### [AstroSheeps Planisphere](https://github.com/astro-sheeps/planisphere)
+### [AstroSheep Planisphere](https://github.com/astro-sheep/planisphere)
 
 A playful browser-based observing planner for Messier-object hunting, smart-telescope nights, and tiny cosmic sheep missions.
 
@@ -92,7 +92,8 @@ A playful browser-based observing planner for Messier-object hunting, smart-tele
 ---
 
 
-### AstroSheeps Rover Program
+### AstroSheep Rover Program
+### [Marsy the rover](https://github.com/astro-sheep/marsy)
 
 AI-assisted rover experiments for navigation, perception, autonomy, mission planning, and small-scale robotics exploration.
 
@@ -104,7 +105,7 @@ AI-assisted rover experiments for navigation, perception, autonomy, mission plan
 
 > **Rovers explore the ground. Telescopes explore the sky. AI connects the mission.**
 
-AstroSheeps treats hobby-scale experiments as tiny missions: structured, visual, documented, and fun.
+AstroSheep treats hobby-scale experiments as tiny missions: structured, visual, documented, and fun.
 
 Not everything needs to be big to feel like exploration.
 
@@ -115,7 +116,7 @@ Not everything needs to be big to feel like exploration.
 Code repositories use the license specified in each project.
 
 Unless otherwise stated, code is released under the repository license.  
-Visual assets, illustrations, generated images, badges, stickers, and AstroSheeps characters belong to their respective authors and creators and may have separate usage restrictions.
+Visual assets, illustrations, generated images, badges, stickers, and AstroSheep characters belong to their respective authors and creators and may have separate usage restrictions.
 
 Please check each repository before reusing images or artwork.
 
